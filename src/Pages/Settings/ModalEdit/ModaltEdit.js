@@ -57,7 +57,7 @@ export const ModalEdit = ({ modalEdit, setModalEdit, selected }) => {
                         <input defaultValue={selected.bowls} required placeholder='sonini kiriting' ref={elBowls} type="number" name="bowls" /><br />
                         <input required placeholder='Categoriyasini kiriting' ref={elCategory} type="number" name="category_id" /><br />
                         <input required placeholder='Rasmini tanlang' ref={elImg} type="file" name="food_img" /><br />
-                        <button className='send' type='submit'>Send</button>
+                        <button className='send' type='submit'>Edit</button>
                         <button onClick={hanldeDeleteFood} className='send ms-2' type='button'>Delete</button>
                     </form>
                 </div>
