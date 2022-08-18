@@ -1,0 +1,62 @@
+.card {
+    width: 221px !important;
+    height: 299px !important;
+    background-color: #1F1D2B !important;
+    border-radius: 16px !important;
+    border: 1px solid gray !important;
+    margin-top: 50px !important;
+}
+
+.card img {
+    margin-left: 38px;
+    margin-top: 25px !important;
+    border-radius: 50%;
+}
+
+.card__title {
+    margin: 0;
+    padding: 0;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 130%;
+    color: #FFFFFF;
+    margin-top: 167px;
+    max-width: 144px;
+    margin-left: 30px;
+}
+
+.card__money {
+    margin: 0;
+    padding: 0;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 400 !important;
+    font-size: 14px;
+    line-height: 140%;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 8px;
+}
+
+.card__number{
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 140%;
+    text-align: center;
+    color: #ABBBC2;
+}
+
+.edit {
+    border: none;
+    border-radius: 8px;
+    background: #EA7C69 !important;
+    width: 220px !important;
+    height: 52px !important;
+    margin-top: 20px;
+    color: white;
+    font-family: "Barlow";
+}

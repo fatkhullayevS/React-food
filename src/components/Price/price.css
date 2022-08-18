@@ -1,0 +1,26 @@
+.price__number{
+    background: #2D303E;
+    border: 1px solid #393C49;
+    border-radius: 8px;
+    padding: 13px 19px !important;
+}
+
+.price input {
+    border: none;
+    width: 340px;
+    height: 48px;
+    background-color: #393C49;
+    outline: none;
+    color: white;
+    font-family: "Barlow";
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+.price button {
+    background-color: transparent;
+    border: none;
+    border: 1px solid #FF7CA3;
+    padding: 13px 13px !important;
+    border-radius: 8px;
+}

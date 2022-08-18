@@ -1,0 +1,31 @@
+.sitenav{
+    margin-top: 24px;
+    margin-left: -35px;
+}
+
+.sitenav ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+
+.sitenav li {
+    margin-left: 32px;
+}
+
+.sitenav a {
+    text-decoration: none;
+    font-family: 'Barlow' ;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 140%;
+    color: #FFFFFF;
+    margin: 0;
+    padding: 0;
+}
+
+.active-link{
+    color: #EA7C69 !important;
+    border-bottom: solid 3px #EA7C69;
+}

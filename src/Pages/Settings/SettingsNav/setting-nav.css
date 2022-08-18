@@ -1,0 +1,41 @@
+.settings-nav{
+    width: 275px;
+    height: 823px;
+    background-color: #1F1D2B;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+.settings-nav a {
+    color: white;
+    text-decoration: none;
+    font-family: "Barlow";
+}
+
+.settings-nav li {
+    margin-top:  10px;
+}
+
+.settings-nav p{
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 140%;
+    color: #ABBBC2;
+}
+
+.active-nav{
+    color: #EA7C69;
+    background-color:  rgba(234, 124, 105, 0.26);
+    width: 275px !important;
+    height: 87 !important;
+    margin-left: -32px;
+}
+.active-nav h5{
+    color: #EA7C69;
+}
+
+.active-nav img {
+    margin-left: 24px;
+}

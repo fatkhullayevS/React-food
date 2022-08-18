@@ -1,0 +1,22 @@
+.sidebar{
+    /* width: 104px; */
+    height: 834px !important;
+    background-color: #1F1D2B;;
+}
+
+.logo{
+    margin-left: 30px !important;
+}
+
+.home {
+    /* margin-left: -25px !important; */
+}
+
+.sidebar li {
+    margin-top: 20px !important;
+}
+
+.active-icon{
+    box-shadow:#EA7C69 0px 4px 8px -2px, #EA7C69 0px 0px 0px 1px;
+    transition: all 0.4s;
+}

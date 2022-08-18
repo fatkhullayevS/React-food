@@ -1,0 +1,21 @@
+.total {
+    background: #1F1D2B;
+    border-radius: 8px;
+    width: 199px !important;
+    height: 143px !important;
+}
+
+.d-flex p{
+    color: white !important;
+    font-family: "Barlow";
+}
+
+.total h3 {
+    color: white !important;
+    font-family: "Barlow" !important;
+}
+
+.total p {
+    color: white;
+    font-family: "Barlow";
+}

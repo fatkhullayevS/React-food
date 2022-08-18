@@ -1,0 +1,39 @@
+.overlay{
+justify-content: center !important;
+align-items: center !important;
+margin-top: 100px !important;
+position: absolute !important;
+background-color: #1F1D2B;
+border: 2px solid #EA7C69;
+margin-left: 300px;
+border-radius: 8px;
+}
+
+.overlay h3 {
+    font-family: "Barlow";
+    color: white;
+    margin-bottom: 30px;
+    margin-top: 24px;
+}
+
+.overlay input {
+    background-color: #1F1D2B;
+    outline: none;
+    border: none;
+    border-radius: 8px;
+    border: 1px solid gray;
+    color: white;
+    font-family: "Barlow";
+    width: 300px;
+    height: 50px;
+    margin-bottom: 24px;
+}
+
+.send {
+    border: none;
+    background-color: #EA7C69;
+    padding: 16px 98px;
+    border-radius: 8px;
+    color: white;
+    font-family: "Barlow";
+}

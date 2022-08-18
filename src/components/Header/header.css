@@ -1,0 +1,30 @@
+
+.header input {
+    background: #2D303E;
+    border: none;
+    outline: none;
+    width: 220px;
+    height: 48px;
+    border-radius: 8px;
+    margin-right: 38px;
+    color: white;
+    font-family: 'Barlow';
+}
+
+.header h3 {
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 140%;
+    color: #FFFFFF;
+}
+
+.header p {
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+    color: #E0E6E9;
+}

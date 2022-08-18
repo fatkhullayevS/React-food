@@ -1,0 +1,4 @@
+.cardRender{
+    height: 580px !important;
+    overflow-y: scroll;
+}

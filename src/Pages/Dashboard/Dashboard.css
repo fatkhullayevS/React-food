@@ -1,0 +1,70 @@
+.desc{
+    font-family: "Barlow" !important;
+    color: white;
+}
+
+hr{
+    color: white !important;
+    position: absolute;
+}
+
+.d-flex h3 {
+    color: white;
+    font-family: "Barlow";
+}
+
+.order-report{
+    background: #1F1D2B;
+    border-radius: 8px;
+    width: 880px;
+    height: 548px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+    /* overflow-y: scroll; */
+}
+
+.order_table p{
+    color: white;
+    font-family: "Barlow";
+}
+
+.menu{
+    margin-left: 128px !important;
+}
+
+.order-total{
+    margin-left: 136px;
+}
+
+.status {
+    margin-left: 136px;
+}
+
+.diagramma{
+    margin-left: 900px !important;
+    position: absolute;
+    background: #1F1D2B;
+    border-radius: 8px;
+    width: 450px !important;
+    height: 347px;
+    margin-right: 20px;
+    margin-top: 225px;
+}
+
+.apex{
+    margin-right: 164px !important;
+}
+
+.pink{
+    margin-left: -170px;
+}
+
+.yellow{
+    margin-left: -175px;
+    margin-top: 115px !important;
+}
+
+.Blue{
+    margin-left: -175px;
+    margin-top: 180px !important;
+}
